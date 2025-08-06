@@ -14,7 +14,6 @@ With a clean, responsive UI and seamless chat + call experience, Nexwave is desi
 - [Folder Structure](#-folder-structure)
 - [Installation](#-installation)
 - [Author](#-author)
-- 
 ---
 
 ## 🚀 Features
