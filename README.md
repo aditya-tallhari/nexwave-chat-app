@@ -1,6 +1,6 @@
 # 💬 Nexwave — Real-Time Chat & Video Call App
 
-**Nexwave** is a modern full-stack application enabling **real-time 1:1 and group messaging**, as well as **high-quality video calling** — powered by the **MERN stack** and **Stream API**.
+**Nexwave** is a modern full-stack application enabling **real-time 1:1**, as well as **high-quality video calling** — powered by the **MERN stack** and **Stream API**.
 
 With a clean, responsive UI and seamless chat + call experience, Nexwave is designed to elevate digital communication for modern users.
 
@@ -52,7 +52,7 @@ With a clean, responsive UI and seamless chat + call experience, Nexwave is desi
 | **Login / Signup**   | Simple login using token-based authentication         |
 | **Home / Chat List** | Shows recent conversations, create DMs                |
 | **Chat Window**      | Real-time messages, threads, typing indicators        |
-| **Video Call**       | HD video calls using Stream Video SDK            |
+| **Video Call**       | video calls using Stream Video SDK            |
 | **User Profile**     | View basic profile, logout functionality              |
 
 ---
@@ -60,6 +60,7 @@ With a clean, responsive UI and seamless chat + call experience, Nexwave is desi
 ## 📁 Folder Structure
 
 ### Backend (`/backend`)
+
 backend/
 ├── src/
 │ ├── controllers/ # Auth, Chat, User controllers
@@ -127,11 +128,8 @@ STREAM_API_SECRET=your_stream_api_secret
 
 ### 4. Run the app
 ```
-bash
-Copy
-Edit
 cd backend
-npm run dev
+npm start
 
 cd frontend
 npm run dev
