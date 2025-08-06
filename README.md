@@ -105,8 +105,6 @@ cd nexwave-chat-app
 
 ### 2. Install dependencies
 ```bash
-Copy
-Edit
 cd frontend
 npm install
 
