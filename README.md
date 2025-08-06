@@ -103,7 +103,7 @@ git clone https://github.com/your-username/nexwave-chat-app.git
 cd nexwave-chat-app
 ```
 
-###2. Install dependencies
+### 2. Install dependencies
 ```bash
 Copy
 Edit
@@ -117,9 +117,6 @@ npm install
 ### 3. Add .env files
 Create .env in the backend/ directory and add your:
 ```
-env
-Copy
-Edit
 PORT=5000
 MONGO_URL=your_mongodb_url
 STREAM_API_KEY=your_stream_api_key
@@ -127,6 +124,7 @@ STREAM_API_SECRET=your_stream_api_secret
 ```
 
 ### 4. Run the app
+bash
 ```
 cd backend
 npm start
