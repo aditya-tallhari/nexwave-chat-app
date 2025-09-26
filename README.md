@@ -133,4 +133,4 @@ npm run dev
 
 👨‍💻 Author
 Aditya Tallhari
-GitHub: @adityatallhari
+GitHub: aditya-tallhari
